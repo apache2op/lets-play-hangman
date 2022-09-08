@@ -1,5 +1,5 @@
 # lets play hangman
- Command line interface based Hangman game using basics of python programming language
+ **Command line interface based Hangman game using basics of python programming language**
  ### files contained: 2, i.e. word.py and hangman.py
  * `word.py` is a python file consisting of collection of words ranging from 3 to 13 letters.
  * `hangman.py` is a python file consisting of the game code.

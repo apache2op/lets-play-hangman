@@ -13,5 +13,7 @@
  7) as the game proceeds, the stages of hangman is displayed using **'display_hangman'** function accordingly to the player's guesses; intial stage being only the gallow and final stage being the full hanged man
  8) also messages are also being displayed while proceeding in the game like _"Congrats, you guessed the word! You win!"_ if the player won the game or _"Sorry, you ran out of tries. The word was " + word + ". Maybe next time!"_ if the player lost the game with the correct word failed to guess by the player
  9) in **'main'** function, the **'get_word'** and **'play'** function is called and lastly asking the player if they wants to continue playing the game after a game is completed or not
- ## map explaining how the game works:    
+ ## flowchart explaining how the game works:
+ ![hangman flowchart](https://user-images.githubusercontent.com/87925162/192241538-76af402f-0a5d-4935-83eb-b8460717bd2c.png)
+
  
